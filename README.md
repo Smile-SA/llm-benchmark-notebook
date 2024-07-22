@@ -26,7 +26,7 @@ Information and explanations on how to run each notebook will be in the top cell
 
 
 
-5) How to use the project:
+5) **How to use the project**:
 
 Currently, the LLMbenchmark Kaggle has 4 LLM eval/benchmark code: Yi (6B), Vicuna (7B), Mistral (7B), and Gemma (2B). The Google Colab version possesses 2 LLM eval/benchmark code: Yi (9B) and Gemma (7B). Again, information and explanations on how to run each notebook and evals will be in the notebook’s first cell. 
 

@@ -11,8 +11,8 @@ Notebook format for evaluating solutions (LLMs) using Kaggle and Google Colab. C
 
 3. **Table of contents**:
 
-	1) LLMbenchmark Kaggle Notebook: LLM eval/benchmark code for Yi (6B), Vicuna (7B), Mistral (7B), and Gemma (2B), returns the benchmark table for each. More information and details in the first cell of the notebook itself. 
-	2) YourOwnLLMbenchmark Kaggle Notebook: Copy the cells and change XXX with your own LLM name that you want to test in this evaluation. More information and details in the first cell of the notebook itself. 
+	1) LLMbenchmark Notebook: LLM eval/benchmark code for Yi (6B), Vicuna (7B), Mistral (7B), and Gemma (2B), returns the benchmark table for each. More information and details in the first cell of the notebook itself. 
+	2) YourOwnLLMbenchmark Notebook: Copy the cells and change XXX with your own LLM name that you want to test in this evaluation. More information and details in the first cell of the notebook itself. 
 
 FINAL PRODUCT: This is what the benchmark final return looks like:
 https://drive.google.com/file/d/1EpiofpKbTAL81fu0-R6s7YDI6Zbam2yN/view?usp=sharing
@@ -30,7 +30,7 @@ Information and explanations on how to run each notebook will be in the top cell
 
 5) **How to use the project**:
 
-Currently, the LLMbenchmark Kaggle has 4 LLM eval/benchmark code: Yi (6B), Vicuna (7B), Mistral (7B), and Gemma (2B). The Google Colab version possesses 2 LLM eval/benchmark code: Yi (9B) and Gemma (7B). Again, information and explanations on how to run each notebook and evals will be in the notebook’s first cell. 
+Currently, the LLMbenchmark notebook has 4 LLM eval/benchmark code: Yi (6B), Vicuna (7B), Mistral (7B), and Gemma (2B). Again, information and explanations on how to run each notebook and evals will be in the notebook’s first cell. 
 
 You can copy and recreate and eval for any LLM by copying the cells of a model and simply changing the model-specific parts with your model’s name. Using the YourOwnLLMbenchmark Kaggle Notebook will provide a format and by following the instructions in that notebook you may be able to recreate the eval but for the LLM of you choice. 
 

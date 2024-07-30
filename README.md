@@ -5,7 +5,8 @@ README:
 
 
 2. **Project Description**: 
-Notebook format for evaluating solutions (LLMs) using Kaggle and Google Colab. Currently does 5 tests in Python Code and 5 tests in Math, hopefully can grow with translation, general question/answering and basic knowledge, speed (token/sec), and much more! 
+
+Notebook format for evaluating solutions (LLMs). Currently does 5 tests in Python Code and 5 tests in Math, hopefully can grow with translation, general question/answering and basic knowledge, speed (token/sec), and much more! 
 
 
 
@@ -14,17 +15,18 @@ Notebook format for evaluating solutions (LLMs) using Kaggle and Google Colab. C
 	1) LLMbenchmark Notebook: LLM eval/benchmark code for Yi (6B), Vicuna (7B), Mistral (7B), and Gemma (2B), returns the benchmark table for each. More information and details in the first cell of the notebook itself. 
 	2) YourOwnLLMbenchmark Notebook: Copy the cells and change XXX with your own LLM name that you want to test in this evaluation. More information and details in the first cell of the notebook itself. 
 
-FINAL PRODUCT: This is what the benchmark final return looks like:
+FINAL PRODUCT = This is what the benchmark table final return of the notebook looks like if all cells are run:
 https://drive.google.com/file/d/1EpiofpKbTAL81fu0-R6s7YDI6Zbam2yN/view?usp=sharing
+
 
 
 4) **How to install/run the project**:
 
-Kaggle = offers 30 hours of GPU 100 + 20 hours of TPU for FREE when an account has been created and verified. Simply create and account and verify it! 
+Kaggle = offers 30 hours of "GPU P100" and "GPU T4 x2" + 20 hours of "TPU VM v3-8" for FREE when an account has been created and verified. Simply create and account and verify it! 
 
-Google Colab = free T4, if Pro then limited but extensive amount of GPU and TPU. Simply login to a google account!
+Google Colab = free T4 GPU but limited. If Pro subscription then limited but extensive amount of "A100 GPU", "L4 GPU", and "TPU v2". Simply login to a google account!
 
-Information and explanations on how to run each notebook will be in the top cell of each of them. 
+Information and explanations on how to run each notebook will be in the top cell of each of the respective notebooks. 
 
 
 
@@ -41,4 +43,4 @@ You can copy and recreate and eval for any LLM by copying the cells of a model a
 
 
 
-7) **License**: Apache 2.0 (view LICENSE.py)
+7) **License**: Apache 2.0 (view LICENSE.md)

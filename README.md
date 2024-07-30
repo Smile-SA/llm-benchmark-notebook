@@ -3,11 +3,11 @@
 
 ## Project Description: 
 
-Notebook format for evaluating solutions (LLMs). Currently does 5 tests in Python Code and 5 tests in Math, hopefully can grow with translation, general question/answering and basic knowledge, speed (token/sec), and much more! 
+Notebook structure for evaluating solutions (LLMs). Currently does 5 tests in Python Code and 5 tests in Math, hopefully can grow with translation, general question/answering and basic knowledge, speed (token/sec), and much more! 
 
-Currently, the LLMbenchmark notebook has 4 LLM eval/benchmark code: Yi (6B), Vicuna (7B), Mistral (7B), and Gemma (2B). Again, information and explanations on how to run each notebook and evals will be in the notebook’s first cell. 
+Currently, the LLMbenchmark notebook has 4 LLM eval/benchmark code: Yi (6B), Vicuna (7B), Mistral (7B), and Gemma (2B). More information and explanations on how to run each notebook and evals will be in the notebook’s first cell. 
 
-You can copy and recreate and eval for any LLM by copying the cells of a model and simply changing the model-specific parts with your model’s name. Using the YourOwnLLMbenchmark Kaggle Notebook will provide a format and by following the instructions in that notebook you may be able to recreate the eval but for the LLM of you choice. 
+You can copy and recreate an eval for any LLM by copying the cells of a model and simply changing the model-specific parts with your model’s name. Using the YourOwnLLMbenchmark Kaggle Notebook as a template and by following the instructions in that notebook you may be able to recreate the eval but for the LLM of your choice. 
 
 
 ## Table of contents:

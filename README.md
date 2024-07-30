@@ -39,8 +39,9 @@ You can copy and recreate and eval for any LLM by copying the cells of a model a
 
 
 6) **Credits and contact**: 
+
 @ Celeste Deudon 
 
 
 
-7) **License**: Apache 2.0 (view LICENSE.md)
+7) **License**: Apache 2.0 (view LICENSE in repository)
